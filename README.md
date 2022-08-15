@@ -5,7 +5,7 @@ This is an overview of all the projects which relate to my Portfolio of Evidence
 	The overview repository will be used a parent repository were i will create 
 	the 5 project repositories within.
 
-## Diagram explaining the project and repository context and how they are integrated:
+## Project and repository context and how they are integrated:
 	
 
 ## Branching strategy to be used:
@@ -14,4 +14,4 @@ This is an overview of all the projects which relate to my Portfolio of Evidence
 ## The used of a .gitignore file within my projects
 
 
-## Storage of creentials and sensitive information
+## Storage of credentials and sensitive information
