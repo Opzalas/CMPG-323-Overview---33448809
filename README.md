@@ -15,12 +15,12 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	I will be using a simple branching strategy since i will be the only person working on the projects. The branching strategy will be a main and a feature branch 	     with a hotfix. Please see diagram expaling the strategy.
 	
 	![alt text](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/gitflow-branching-strategy.png?raw=true)
-	![Screenshot](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/gitflow-branching-strategy.png)
+	![Screenshot](Git%20branching%20strat.png)
 	<img src="/CMPG-323-Overview---33448809/gitflow-branching-strategy.png">.
-	<img src="Git%20branching%20strat.png">.
-	![image description](https://github.com/Opzalas/CMPG-323-Overview---33448809/Git%20branching%20strat.png)
+	<img src="https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Git%20branching%20strat.png">.
+	![image description](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Git%20branching%20strat.png)
 	![](CMPG-323-Overview---33448809/Git%20branching%20strat.png)
-	![](Git%20branching%20strat.png)
+	![](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Git%20branching%20strat.png)
 
 
 ## The used of a .gitignore file within my projects
