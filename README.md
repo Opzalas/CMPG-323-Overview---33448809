@@ -20,9 +20,12 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 
 
 ## The used of a .gitignore file within my projects
-
+	Is to ensure that certain files are not being tracked by Git remain untracked.
 
 ## Storage of credentials and sensitive information
+
+	Never store credentials and sensitive data on GitHub
+	The issue of a potential data or infrastructure breach can increase exponentially when branches are merged and forked. The easiest method to mitigate this risk 	is not to store credentials and sensitive data in the code before committing to a branch.
 
 ## List of Repositories
 - <a href="https://github.com/Opzalas/CMPG-323-Overview---33448809" target="_blank">Project 1</a>
