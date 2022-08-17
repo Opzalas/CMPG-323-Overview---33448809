@@ -13,6 +13,7 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	![alt text](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/gitflow-branching-strategy.png?raw=true)
 	![Screenshot](gitflow-branching-strategy.png)
 	<img src="gitflow-branching-strategy.png"/>
+	![image description](gitflow-branching-strategy.png)
 
 
 ## The used of a .gitignore file within my projects
