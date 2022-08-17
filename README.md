@@ -21,6 +21,7 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	![image description](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Git%20branching%20strat.png)
 	![](CMPG-323-Overview---33448809/Git%20branching%20strat.png)
 	![](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Git%20branching%20strat.png)
+	![](Git%20branching%20strat.png)
 
 
 ## The used of a .gitignore file within my projects
