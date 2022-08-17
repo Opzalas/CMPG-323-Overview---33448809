@@ -10,7 +10,7 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 
 ## Branching strategy to be used:
 	
-	<img>https://user-images.githubusercontent.com/89415628/185071509-ed072c34-8206-4497-be66-2cedc7cc8a1a.png</img>
+	![alt text](https://github.com/[username]/[reponame]/blob/[branch]/gitflow-branching-strategy.png?raw=true)
 
 
 ## The used of a .gitignore file within my projects
