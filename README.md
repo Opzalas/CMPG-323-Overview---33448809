@@ -12,9 +12,10 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 
 ## Branching strategy to be used:
 	
-	I will be using a simple branching strategy since i will be the only person working on the projects. The branching strategy will be a main and a feature branch 	with a hotfix. Please see diagram expaling the strategy.
+	I will be using a simple branching strategy since i will be the only person working on the projects.
+	The branching strategy will be a main and a feature branch with a hotfix. Please see diagram expaling the strategy.
 	
-	![Git branching strat](https://user-images.githubusercontent.com/89415628/185148726-2e3dcaed-75c1-4235-9c7f-c1320ac4a635.png)
+	![Git branching strat]("https://user-images.githubusercontent.com/89415628/185148726-2e3dcaed-75c1-4235-9c7f-c1320ac4a635.png")
 
 
 ## The used of a .gitignore file within my projects
