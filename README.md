@@ -9,6 +9,8 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 
 	There will be one repository with 5 Projects.
 	All project will be linked to the overview repository which would have all the labels and milestones. Please see the diagram below.
+	
+<img src="https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/Project&RepositoryContext.png?raw=true">
 
 ## Branching strategy to be used:
 	
@@ -18,7 +20,6 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	Below is a diagram on how the branching strategy will be working:
 	
 <img src="https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/branching.png?raw=true">
-	![]("https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/branching.png")
 
 ## The used of a .gitignore file within my projects
 
