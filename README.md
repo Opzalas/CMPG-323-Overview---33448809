@@ -17,9 +17,10 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	Once the changes are made i will create pull request to merge the changes with the main branch and delete the feature branch.
 	Below is a diagram on how the branching strategy will be working:
 	
-	<img src="/branching.png">
-	![](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/assets/images/branching.png)
+	<img src="https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/branching.png?raw=true">
+	![](https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/branching.png?raw=true)
 	https://github.com/Opzalas/CMPG-323-Overview---33448809/blob/main/assets/images/branching.png
+	
 
 
 ## The used of a .gitignore file within my projects
