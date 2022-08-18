@@ -18,6 +18,7 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 	Below is a diagram on how the branching strategy will be working:
 	
 	<img src="/branching.png">
+	![](/assets/images/branching.png)
 
 
 ## The used of a .gitignore file within my projects
