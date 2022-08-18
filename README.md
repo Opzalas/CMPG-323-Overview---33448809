@@ -13,9 +13,11 @@ This repo contains all the info on my project for my Portfolio of Evidence (POE)
 ## Branching strategy to be used:
 	
 	I will be using a simple branching strategy since i will be the only person working on the projects.
-	The branching strategy will be a main and a feature branch with a hotfix. Please see diagram expaling the strategy.
+	The branching strategy will have a main branch and when ever i need to make change i will create a feature branch for the changes.
+	Once the changes are made i will create pull request to merge the changes with the main branch and delete the feature branch.
+	Below is a diagram on how the branching strategy will be working:
 	
-	![Git branching strat](https://github.com/Opzalas/CMPG-323-Overview---33448809/Git%20branching%20strat.png)
+	![](https://github.com/Opzalas/CMPG-323-Overview---33448809/branching.png)
 
 
 ## The used of a .gitignore file within my projects
